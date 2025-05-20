@@ -6,3 +6,5 @@ Source code is in a private repository as per the regulations of the course proj
 Video demo:
 
 https://www.youtube.com/watch?v=wMhEp7Uecv8
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=wMhEp7Uecv8)
